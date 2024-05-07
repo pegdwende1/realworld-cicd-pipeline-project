@@ -1,0 +1,7 @@
+https://github.com/awanmbandi/realworld-cicd-pipeline-project/tree/maven-build-automation
+
+
+create a 'maven-build-automation' and download the file from 'maven-build-automation' and push it to that repo you just created
+
+
+create a 2nd repo called 'maven-sonarqube-nexus-project' download the code from 'maven-sonarqube-nexus' and push it to that repo
